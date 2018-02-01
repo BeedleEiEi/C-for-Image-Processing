@@ -1,5 +1,5 @@
 #include <iostream> //Import input, output
-using namespace std;
+//using namespace std;
 
 int main(){
 	
@@ -7,6 +7,8 @@ int main(){
 	float float_number = 15.1234;
 	bool status = true;
 	char character = 'c';
+	
+	
 	
 	cout << "Test Variable in C++ \n"; //Console output
 	cout << "Number = " << number;
